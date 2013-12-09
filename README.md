@@ -1,4 +1,4 @@
-teste
+Aprendendo gitHub
 =====
 
-Repositório para teste
+Repositório para estudo. Aprendendo usar  o git.
